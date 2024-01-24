@@ -1,0 +1,13 @@
+*.o
+*.d
+*.old
+*.dummy
+*.bak
+*.log
+__pycache__
+out
+temp
+*.saht
+**/*.bcsar
+**/*.bcgrp
+**/*.chpack
