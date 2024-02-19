@@ -61,6 +61,26 @@ CharacterUINames = [
     "wr",
     "ys"
 ]
+CharacterUINamesFile = [
+    "bw",
+    "dk",
+    "ds",
+    "hq",
+    "kt",
+    "lg",
+    "lk",
+    "mim",
+    "mif",
+    "mr",
+    "mtl",
+    "pc",
+    "rs",
+    "sh_red",
+    "td",
+    "wig",
+    "wr",
+    "ys"
+]
 BodyNames = [
     "std",
     "rally",
